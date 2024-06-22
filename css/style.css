@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&family=Playwrite+ES+Deco:wght@100..400&family=Playwrite+US+Trad:wght@100..400&display=swap');
+
+h1{
+    font-family:Playwrite ES Deco;
+    text-align: center;
+    background-color: purple;
+}
+
+body{
+    background-image: url('https://media.istockphoto.com/id/1388545145/photo/character-with-vr-goggles-immersed-in-backlit-diffuse-liquid.webp?b=1&s=170667a&w=0&k=20&c=HM4MKq4KiNR3iahv-3AkYsgxrQSAeesA2n83-f02YLY=');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:plum;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 7px;border-left: 1px;
+}
